@@ -1,1 +1,2 @@
-# project1 Alishev Spring Сourse
+# project - library
+JdbcTemplate, postgresql, springframework
